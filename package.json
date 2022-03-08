@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "jose zambrano",
 	"description": "A project that does something awesome",
+	"keywords":["backend","api","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
